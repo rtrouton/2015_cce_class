@@ -1,1 +1,1 @@
-# 2015_cce_class
+# Scripts and other info developed as part of a Casper certification training class in June 2015.
